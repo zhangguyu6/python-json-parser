@@ -1,0 +1,13 @@
+
+__pycache__/
+*.py[cod]
+*.so
+*.sqlite
+*.db
+*.swp
+*.un~
+*.doc
+*.tar.gz
+.vscode
+indexdir/
+versions
